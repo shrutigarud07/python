@@ -1,4 +1,4 @@
-# Python Practice Journey
+# Python Journey
 
 This repository contains my Python practice problems and solutions.
 
